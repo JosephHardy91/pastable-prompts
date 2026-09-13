@@ -1,0 +1,1 @@
+Restate the options, and under each of them, make it multiple-choice (I will provide something else), but make the choices as high quality (properly generalized to the available information - not overfit, not underfit, lean towards underfit with suboptions in any dilemma) as possible given what we know
