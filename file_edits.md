@@ -1,5 +1,3 @@
-Here's the prompt to save:
-
 Walk through each item we've agreed to address in <file>: show the edit, and say in plain English why we're making it. Don't change the file until I say so. If we haven't agreed on the items, ask for the list first.
 
 Read <file> before writing anything. Copy every "before" exactly from it, and take line numbers from the file as it is now, before any edit.
